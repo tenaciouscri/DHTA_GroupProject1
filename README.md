@@ -36,11 +36,21 @@ I love pancakes! I'm also really enjoying learning these new skills so far and J
 
 ---
 
-### Personal Profile 1 Raphaela
+### Personal Profile Raphaela
 
-### Article Daniel
+Name: Raphaela Vergud
+Age: 23 years
+Nationality: Austrian
+
+### Article Raphaela
+
+So far I've learned how to navigate the command line in the terminal (more or less) and pushing and pulling from GitHub!
+It's all super fascinating and I never thought I'd be able to be comfortable looking at the terminal but now I am.
+I'm also grateful Johannes is so patient whenever I want to ask him questions.
 
 ### More...
+
+I love running and eating sweets and pastries! The sweeter, the better.
 
 ---
 
