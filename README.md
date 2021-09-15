@@ -9,7 +9,7 @@ Delivery Hero Python Year Book
 
 ---
 
-### Personal Profile 1 Daniel
+### Personal Profile Daniel
 
 Name: Daniel Lambert 
 Age: 26 years
@@ -32,7 +32,7 @@ far and Johannes is a great teacher :D
 
 ---
 
-### Personal Profile 1 Cristina
+### Personal Profile Cristina
 
 Name: Cristina Delvecchio
 Age: 29
